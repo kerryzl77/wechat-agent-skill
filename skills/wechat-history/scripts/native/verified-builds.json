@@ -1,0 +1,14 @@
+{
+  "AlternateScreenRecorder.swift": {
+    "source_sha256": "57d2a2933ad5ac62605523e8b2b1a221948777318bed0959ef9ae906a87daf88",
+    "installed_binary_sha256": "",
+    "app_relative": "alternate-screen-helper/Alternate Screen Recorder.app",
+    "executable": "AlternateScreenRecorder"
+  },
+  "WeChatNativeInput.swift": {
+    "source_sha256": "bea064050286270d3189696e275c3c2fce9ae789fcf0a1b4d4c08b349259ca45",
+    "installed_binary_sha256": "",
+    "app_relative": "native-input/WeChat Native Input.app",
+    "executable": "WeChatNativeInput"
+  }
+}

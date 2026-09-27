@@ -1,0 +1,4 @@
+interface:
+  display_name: "WeChat — Read & Send"
+  short_description: "Read local chats and send verified WeChat texts"
+  default_prompt: "Use $wechat-history to read the relevant conversation, draft a reply, and send only when I request it."

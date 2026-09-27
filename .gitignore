@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.dylib
+*.app/
+*.db
+*.db-wal
+*.db-shm
+keys.json
+*.png
+*.jpg
+*.mp4
+*.jsonl
+.env
+.env.*
