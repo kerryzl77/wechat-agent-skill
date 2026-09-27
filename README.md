@@ -4,10 +4,8 @@ A skill for local agents to **read chats, see and operate WeChat, and send messa
 
 Ask things like:
 
-- “What did the dinner group ask me to bring?”
-- “Summarize my recent messages with Alex.”
-- “Find the address someone shared in the group.”
-- “Send Alex: I'll arrive at seven.”
+- “What is group chat xxx talking about?”
+- “Send a private DM to yyy: hi.”
 
 ## Install
 
